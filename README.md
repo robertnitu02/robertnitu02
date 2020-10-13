@@ -1,8 +1,5 @@
 ### Hi there 👋
 
-- 🔭 I’m currently working on ...
-   GTA V B-zone project
-
 <!--
 **RobertNITU/RobertNITU** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
