@@ -1,9 +1,6 @@
 ### Hi there :punch:
 ###### Thank you for visiting my profile! :raised_hands:
 
-![counter](https://[https://pipedream.com/@/p_G6CNmN/edit?copy=true].m.pipedream.net)
-
-
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=RobertNITU&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 - 🔭 I’m currently working on ... <br/>
