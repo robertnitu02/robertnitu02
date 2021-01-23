@@ -3,6 +3,9 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=robertnitu02&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
+![Robert's github stats](https://github-readme-stats.vercel.app/api?username=robertnitu02&count_private=true)
+
+
 - 🔭 I’m currently working on ... <br/>
    - B-zone GTA V Project
    - GorillaRobotics (RO_149) - natieprieducatie Project
