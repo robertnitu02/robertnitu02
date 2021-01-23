@@ -1,5 +1,5 @@
 ### Hi there :punch:
-![Icloud Badge](https://img.shields.io/badge/-robert.nitu02@icloud.com-7D7D7D?style=flat&logo=iCloud&logoColor=white)](mailto:robert.niut02@icloud.com "Connect via Email")
+[![Icloud Badge](https://img.shields.io/badge/-robert.nitu02@icloud.com-7D7D7D?style=flat&logo=iCloud&logoColor=white)](mailto:robert.niut02@icloud.com "Connect via Email")
 
 ###### Thank you for visiting my profile! :raised_hands:
 ![Profile Views](https://komarev.com/ghpvc/?username=robertnitu02&color=blue)
