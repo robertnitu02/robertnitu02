@@ -1,43 +1,23 @@
 ### Hi there :punch:
-###### Thank you for visiting my profile! :raised_hands:
+[![Icloud Badge](https://img.shields.io/badge/-robert.nitu02@icloud.com-7D7D7D?style=flat&logo=iCloud&logoColor=white)](mailto:robert.niut02@icloud.com "Connect via Email")
 
-## 🔭 I’m currently working on ... <br/>
+###### Thank you for visiting my profile! :raised_hands:
+![Profile Views](https://komarev.com/ghpvc/?username=robertnitu02&color=blue)
+
+## 🔭 I’m currently working on ... :fire: <br/>
    - B-zone GTA V Project
    - GorillaRobotics (RO_149) - natieprieducatie Project
+   
+## GitHub Public Stats :boom::boom:
 
-<!--
-
-## Stats <br/>
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=robertnitu02&layout=compact)
 
 ![Robert's github stats](https://github-readme-stats.vercel.app/api?username=robertnitu02&show_icons=true&count_private=true)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=robertnitu02&layout=compact)]
+## Contact me :globe_with_meridians:
 
-## Connect with me:
-[<img align="left" alt="facebook" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg"><a href="www"></a></img>][website]
-
-<br />
-
-<details>
-  <summary>:zap: Github Stats</summary>
-  <img src="ttps://github-readme-stats.vercel.app/api?username=robertnitu02&show_icons=true&count_private=true>
-</details>
-
-<details>
-  <summary>:zap: Languages Used</summary>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=robertnitu02&layout=compact">
-</details>
-
-**RobertNITU/RobertNITU** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+[![Facebook Badge](https://img.shields.io/badge/-Facebook-3b5998?style=flat&logo=Facebook&logoColor=white)](https://www.facebook.com/robert.nitu02)
+[![Instagram Badge](https://img.shields.io/badge/-Instagram-C13584?style=flat&logo=Instagram&logoColor=white)](https://www.instagram.com/robert.nitu02/)
+[![Spotify Badge](https://img.shields.io/badge/-Spotify-1DB954?style=flat&logo=Spotify&logoColor=white)](https://open.spotify.com/user/212i6ytai3anzxfgtcn5wyawq?si=hJ2pYQOQQIasjvkvC9Pb6Q)
+[![YouTube Badge](https://img.shields.io/badge/-YouTube-FF0000?style=flat&logo=YouTube&logoColor=white)](https://www.youtube.com/user/reddplaguementosan)
+[![Discord Badge](https://img.shields.io/badge/-Mentosan_9798-3b5998?style=flat&logo=Discord&logoColor=white)](https://www.discord.com)
