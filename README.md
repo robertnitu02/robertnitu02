@@ -1,5 +1,5 @@
 ### Hi there :punch:
-[![Icloud Badge](https://img.shields.io/badge/-robert.nitu02@icloud.com-7D7D7D?style=flat&logo=iCloud&logoColor=white)](mailto:robert.niut02@icloud.com "Connect via Email")
+![Icloud Badge](https://img.shields.io/badge/-robert.nitu02@icloud.com-7D7D7D?style=flat&logo=iCloud&logoColor=white)](mailto:robert.niut02@icloud.com "Connect via Email")
 
 ###### Thank you for visiting my profile! :raised_hands:
 ![Profile Views](https://komarev.com/ghpvc/?username=robertnitu02&color=blue)
@@ -10,11 +10,11 @@
    
 ## GitHub Public Stats :boom::boom:
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=robertnitu02&layout=compact)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=robertnitu02&layout=compact)
 
 ![Robert's github stats](https://github-readme-stats.vercel.app/api?username=robertnitu02&show_icons=true&count_private=true)
 
-## Contact me :globe_with_meridians:
+## Me on Internet :globe_with_meridians:
 
 [![Facebook Badge](https://img.shields.io/badge/-Facebook-3b5998?style=flat&logo=Facebook&logoColor=white)](https://www.facebook.com/robert.nitu02)
 [![Instagram Badge](https://img.shields.io/badge/-Instagram-C13584?style=flat&logo=Instagram&logoColor=white)](https://www.instagram.com/robert.nitu02/)
