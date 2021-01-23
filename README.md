@@ -1,16 +1,33 @@
 ### Hi there :punch:
 ###### Thank you for visiting my profile! :raised_hands:
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=robertnitu02&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
-
-![Robert's github stats](https://github-readme-stats.vercel.app/api?username=robertnitu02&count_private=true)
-
-
-- 🔭 I’m currently working on ... <br/>
+## 🔭 I’m currently working on ... <br/>
    - B-zone GTA V Project
    - GorillaRobotics (RO_149) - natieprieducatie Project
 
 <!--
+
+## Stats <br/>
+
+![Robert's github stats](https://github-readme-stats.vercel.app/api?username=robertnitu02&show_icons=true&count_private=true)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=robertnitu02&layout=compact)]
+
+## Connect with me:
+[<img align="left" alt="facebook" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg"><a href="www"></a></img>][website]
+
+<br />
+
+<details>
+  <summary>:zap: Github Stats</summary>
+  <img src="ttps://github-readme-stats.vercel.app/api?username=robertnitu02&show_icons=true&count_private=true>
+</details>
+
+<details>
+  <summary>:zap: Languages Used</summary>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=robertnitu02&layout=compact">
+</details>
+
 **RobertNITU/RobertNITU** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
