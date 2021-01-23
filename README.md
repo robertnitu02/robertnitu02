@@ -1,6 +1,6 @@
 ### Hi there :punch:
 [![Icloud Badge](https://img.shields.io/badge/-robert.nitu02@icloud.com-7D7D7D?style=flat&logo=iCloud&logoColor=white)](mailto:robert.niut02@icloud.com "Connect via Email")
-<br/><br/><br/>
+<br/><br/>
 ###### Thank you for visiting my profile! :raised_hands:
 ![Profile Views](https://komarev.com/ghpvc/?username=robertnitu02&color=blue)
 
@@ -12,7 +12,7 @@
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=robertnitu02&layout=compact)
 
-![Robert's github stats](https://github-readme-stats.vercel.app/api?username=robertnitu02&show_icons=true&count_private=true)
+![Robert's github stats](https://github-readme-stats.vercel.app/api?username=robertnitu02&show_icons=true&count_private=true&hide=issues,contribs)
 
 ## Me on Internet :globe_with_meridians:
 
