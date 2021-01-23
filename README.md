@@ -1,12 +1,12 @@
 ### Hi there :punch:
 [![Icloud Badge](https://img.shields.io/badge/-robert.nitu02@icloud.com-7D7D7D?style=flat&logo=iCloud&logoColor=white)](mailto:robert.niut02@icloud.com "Connect via Email")
-
+<br/><br/><br/>
 ###### Thank you for visiting my profile! :raised_hands:
 ![Profile Views](https://komarev.com/ghpvc/?username=robertnitu02&color=blue)
 
 ## 🔭 I’m currently working on ... :fire: <br/>
    - B-zone GTA V Project
-   - GorillaRobotics (RO_149) - natieprieducatie Project
+   - Gorilla Robotics (RO_149) - natieprieducatie Project
    
 ## GitHub Public Stats :boom::boom:
 
