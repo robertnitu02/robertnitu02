@@ -8,11 +8,15 @@
    - B-zone GTA V Project
    - Gorilla Robotics (RO_149) - natieprieducatie Project
    
-## GitHub Public Stats :boom::boom:
+## Github Stats:boom::boom:
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=robertnitu02&layout=compact)
-
-![Robert's github stats](https://github-readme-stats.vercel.app/api?username=robertnitu02&show_icons=true&count_private=true&hide=issues,contribs)
+<details> 
+  <summary>💻 Click for more</summary>
+  <br/>
+    <img alt="Robert Nițu's Github Stats" src="https://github-readme-stats.vercel.app/api?username=robertnitu02&show_icons=true&count_private=true&theme=radical&hide_border=true&bg_color=0D1117" />
+  <img alt="Robert Nițu's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=robertnitu02&langs_count=10&layout=compact&theme=radical&hide_border=true&bg_color=0D1117" />
+  <br/>
+</details>
 
 ## Me on Internet :globe_with_meridians:
 
