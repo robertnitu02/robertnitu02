@@ -6,7 +6,7 @@
    * [B-Zone GTA V Roleplay Server](https://github.com/B-Zone-GTA-V)
    
 ## 🚀 Older projects ... 💻 <br/>
-   * [Gorilla Robotics (RO_149)](https://github.com/robertnitu02/gorilla_robotics) - natieprineducatie
+   * [Gorilla Robotics (RO149)](https://github.com/robertnitu02/gorilla_robotics) - natieprineducatie
    
 ## Github Stats:boom::boom:
 
