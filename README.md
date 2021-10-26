@@ -4,6 +4,7 @@
 
 ## 🔭 I’m currently working on ... :fire: <br/>
    * [B-Zone GTA V Roleplay Server](https://github.com/B-Zone-GTA-V)
+   * Learning Angular with my group from [Google Developer](https://github.com/gdsc-uvt)
    
 ## 🚀 Older projects ... 💻 <br/>
    * [Gorilla Robotics (RO149)](https://github.com/robertnitu02/gorilla_robotics) - natieprineducatie
