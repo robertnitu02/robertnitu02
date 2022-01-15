@@ -3,8 +3,8 @@
 <!-- ![Profile Views](https://komarev.com/ghpvc/?username=robertnitu02&color=blue) -->
 
 ## 🔭 I’m currently working on ... :fire: <br/>
-   * [B-Zone GTA V Roleplay Server](https://github.com/B-Zone-GTA-V) - [RAGE:MP platform](https://rage.mp)
-   * Learning Angular with my group from [Google Developer](https://github.com/gdsc-uvt)
+   * [B-Zone GTA V Roleplay Server](https://github.com/B-Zone-GTA-V) - GTA V server powered by [RAGE:MP](https://rage.mp)
+   * Learning [Angular & Java](https://github.com/robertnitu02/GDSC-UVT) with my group from [Google Developer](https://github.com/gdsc-uvt)
    
 ## 🚀 Older projects ... 💻 <br/>
    * [Gorilla Robotics (RO149)](https://github.com/robertnitu02/gorilla_robotics) - Robotics International Competition
