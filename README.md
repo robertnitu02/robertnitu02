@@ -21,3 +21,10 @@
   <img alt="Robert Nițu's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=robertnitu02&langs_count=10&layout=compact&theme=radical&hide_border=true&bg_color=0D1117" />
   <br/>
 </details>
+
+<p align="center">
+  :heart:
+  <br />
+  <br />
+  <img src="https://media.giphy.com/media/jpVnC65DmYeyRL4LHS/giphy.gif" width="20%">
+</p>
