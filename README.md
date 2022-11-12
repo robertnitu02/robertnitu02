@@ -5,14 +5,14 @@
 [![gmail Badge](https://img.shields.io/badge/-nitu.robert02@gmail.com-7D7D7D?style=flat&logo=gmail&logoColor=black)](mailto:nitu.robert02@gmail.com "Connect via Email")
 [![Discord Badge](https://img.shields.io/badge/-Mentosan_9798-3b5998?style=flat&logo=Discord&logoColor=white)](https://www.discord.com)
 
-## 🔭 I’m currently working on ... :fire: <br/>
-   * [B-Zone V](https://github.com/B-Zone-GTA-V) - GTA V server powered by [RAGE:MP](https://rage.mp)
-   * Learning [Angular](https://github.com/robertnitu02/GDSC-UVT) with my group from [Google Developer](https://github.com/gdsc-uvt)
+## 🖱️ I’m currently working on ... 👀 <br/>
+   * [B-Zone V](https://github.com/B-Zone-GTA-V) - Grand Theft Auto: V Server powered by [RAGE:MP](https://rage.mp)
+   * Learning [Web Development](https://github.com/robertnitu02/GDSC-UVT) with my group from [GDSC UVT](https://github.com/gdsc-uvt)
  
-## 🚀 Older projects ... 💻 <br/>
-   * [Gorilla Robotics (RO149)](https://github.com/robertnitu02/gorilla_robotics) - Robotics International Competition
+## 🐱‍💻 Older projects ...  <br/>
+   * [Gorilla Robotics (RO 149)](https://github.com/robertnitu02/gorilla_robotics) - BRD First Tech Challenge Robotics International Competition
    
-## Github Stats:boom::boom:
+## 💯 Github Stats
 
 <details> 
   <summary>💻 Click for more</summary>
