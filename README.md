@@ -10,7 +10,7 @@
  
 ## 🐱‍💻 Older projects ...  <br/>
    * [Gorilla Robotics (RO 149)](https://github.com/robertnitu02/gorilla_robotics) - BRD First Tech Challenge Robotics International Competition
-   * [Google Developer Students Club - UVT](https://github.com/robertnitu02/GDSC-UVT) - Angular 14+ and Design Patters workshop and projects for web applications
+   * [Google Developer Student Clubs - UVT](https://github.com/robertnitu02/GDSC-UVT) - Angular 14+ and Design Patters workshop and projects for web applications
    
 ## 💯 Github Stats
 
