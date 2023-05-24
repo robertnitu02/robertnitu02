@@ -7,10 +7,10 @@
 
 ## 🖱️ I’m currently working on ... 👀 <br/>
    * [B-Zone V](https://github.com/B-Zone-GTA-V) - Grand Theft Auto: V Server powered by [RAGE:MP](https://rage.mp)
-   * Learning [Web Development](https://github.com/robertnitu02/GDSC-UVT) with my group from [GDSC UVT](https://github.com/gdsc-uvt)
  
 ## 🐱‍💻 Older projects ...  <br/>
    * [Gorilla Robotics (RO 149)](https://github.com/robertnitu02/gorilla_robotics) - BRD First Tech Challenge Robotics International Competition
+   * [Google Developer Students Club - UVT](https://github.com/robertnitu02/GDSC-UVT) - Angular 14+ and Design Patters workshop and projects for web applications
    
 ## 💯 Github Stats
 
