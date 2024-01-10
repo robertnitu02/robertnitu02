@@ -6,7 +6,7 @@
 [![Discord Badge](https://img.shields.io/badge/-Mentosan_9798-3b5998?style=flat&logo=Discord&logoColor=white)](https://www.discord.com)
 
 ## 🖱️ I’m currently working on ... 👀 <br/>
-   * [B-Zone V](https://beta.b-zone.ro) - Grand Theft Auto: V Server powered by [RAGE:MP](https://rage.mp)
+   * [B-Zone V](https://v.b-zone.ro) - Grand Theft Auto V server based on the multiplayer modification [RAGE](https://rage.mp) Multiplayer
    * [Popasuri Românești](https://www.linkedin.com/company/popasuri-romanesti/about/) - Web & Mobile Application that allows users to plan a car trip between two points in Romania.
 
 ## 📂 Older projects ...  <br/>
