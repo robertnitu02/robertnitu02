@@ -27,7 +27,7 @@
 ## 🛠 Language and tools
 
 <div align="left">
-  <img src="https://skillicons.dev/icons?i=bootstrap,html,css,scss,javascript,typescript,angular,c,kotlin,firebase,mysql,git" />
+  <img src="https://skillicons.dev/icons?i=bootstrap,html,css,scss,javascript,typescript,angular,c,kotlin,firebase,mysql,git,vite" />
 </div>
 
   <br />
