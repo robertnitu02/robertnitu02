@@ -7,23 +7,27 @@
 
 ## 🖱️ I’m currently working on ... 👀 <br/>
    * [B-Zone V](https://v.b-zone.ro) - Grand Theft Auto V server based on the multiplayer modification [RAGE](https://rage.mp) Multiplayer
-   * [Popasuri Românești](https://www.linkedin.com/company/popasuri-romanesti/about/) - Web & Mobile Application that allows users to plan a car trip between two points in Romania.
+   * Bachelor Project
 
 ## 📂 Older projects ...  <br/>
+   * [Popasuri Românești](https://www.linkedin.com/company/popasuri-romanesti/about/) - Web & Mobile Application that allows users to plan a car trip between two points in Romania.
    * [Gorilla Robotics (RO 149)](https://github.com/robertnitu02/gorilla_robotics) - BRD First Tech Challenge Robotics International Competition
    * [Google Developer Student Clubs - UVT](https://github.com/robertnitu02/GDSC-UVT) - Angular 14+ and Design Patterns workshop and projects for web applications
    
 ## 💯 Github Stats
 
-<details> 
+<p align="center">
+  <a href="http://www.github.com/robertnitu02"><img src="https://github-readme-streak-stats.herokuapp.com/?user=robertnitu02&stroke=ffffff&background=1c1917&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
+</p>
+
+<details>
   <summary>💻 Click for more</summary>
   <br/>
    <img alt="Robert Nițu's Github Stats" src="https://github-readme-stats.vercel.app/api?username=robertnitu02&show_icons=true&count_private=true&theme=radical&hide_border=true&bg_color=0D1117" />
    <img alt="Robert Nițu's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=robertnitu02&langs_count=10&layout=compact&theme=radical&hide_border=true&bg_color=0D1117" />
-   <a href="http://www.github.com/robertnitu02"><img src="https://github-readme-streak-stats.herokuapp.com/?user=robertnitu02&stroke=ffffff&background=1c1917&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
   <br/>
 </details>
-
+  
 ## 🛠 Language and tools
 
 <div align="left">
