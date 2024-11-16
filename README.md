@@ -17,7 +17,7 @@
 ## 💯 Github Stats
 
 <p align="center">
-       <img alt="Robert Nițu's Github Stats" src="https://github-readme-stats.vercel.app/api?username=robertnitu02&show_icons=true&count_private=true&theme=radical&hide_border=true&bg_color=0D1117" />
+  <img alt="Robert Nițu's Github Stats" src="https://github-readme-stats.vercel.app/api?username=robertnitu02&show_icons=true&count_private=true&theme=radical&hide_border=true&bg_color=0D1117" />
   <a href="http://www.github.com/robertnitu02"><img src="https://github-readme-streak-stats.herokuapp.com/?user=robertnitu02&stroke=ffffff&background=1c1917&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
 </p>
 
