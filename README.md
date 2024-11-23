@@ -6,7 +6,7 @@
 [![Discord Badge](https://img.shields.io/badge/-Mentosan_9798-3b5998?style=flat&logo=Discord&logoColor=white)](https://www.discord.com)
 
 ## 🖱️ I’m currently working on ... 👀 <br/>
-   * [B-Zone V](https://v.b-zone.ro) - Grand Theft Auto V server based on the multiplayer modification [RAGE](https://rage.mp) Multiplayer
+   * [B-Zone V](https://v.b-zone.ro) - a romanian GTA:V server powered by [RAGE:MP](https://rage.mp).
    * Bachelor Project
 
 ## 📂 Older projects ...  <br/>
