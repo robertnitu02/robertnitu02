@@ -6,13 +6,13 @@
 [![Discord Badge](https://img.shields.io/badge/-Mentosan_9798-3b5998?style=flat&logo=Discord&logoColor=white)](https://www.discord.com)
 
 ## 🖱️ I’m currently working on ... 👀 <br/>
-   * [B-Zone V](https://v.b-zone.ro) - a romanian GTA:V server powered by [RAGE:MP](https://rage.mp).
+   * [B-Zone V](https://v.b-zone.ro) - Grand Theft Auto V Romanian server based on the multiplayer modification [RAGE Multiplayer](https://rage.mp).
 
 ## 📂 Older projects ...  <br/>
-   * [Gorilla Robotics (RO 149)](https://github.com/robertnitu02/gorilla_robotics) - BRD First Tech Challenge Robotics International Competition
-   * [Google Developer Student Clubs - UVT](https://github.com/robertnitu02/GDSC-UVT) - Angular 14+ and Design Patterns workshop and projects for web applications
+   * [Gorilla Robotics (RO 149)](https://github.com/robertnitu02/gorilla_robotics) - BRD First Tech Challenge Robotics International Competition.
+   * [Google Developer Student Clubs - UVT](https://github.com/robertnitu02/GDSC-UVT) - Angular 14+ and Design Patterns workshop and projects for web applications.
    * [Popasuri Românești](https://www.linkedin.com/company/popasuri-romanesti/about/) - Web & Mobile Application that allows users to plan a car trip between two points in Romania.
-   * AgroNOW - The digitization of agri-food markets in Romania, Bachelor Project [UPB](https://www.fiir.upb.ro/index.php/ro/) 2025
+   * AgroNOW - The digitization of agri-food markets in Romania, Bachelor Project [UPB](https://www.fiir.upb.ro/index.php/ro/) 2025.
 
 ## 💯 Github Stats
 
