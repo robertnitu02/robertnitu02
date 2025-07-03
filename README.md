@@ -7,13 +7,13 @@
 
 ## 🖱️ I’m currently working on ... 👀 <br/>
    * [B-Zone V](https://v.b-zone.ro) - a romanian GTA:V server powered by [RAGE:MP](https://rage.mp).
-   * Bachelor Project
 
 ## 📂 Older projects ...  <br/>
-   * [Popasuri Românești](https://www.linkedin.com/company/popasuri-romanesti/about/) - Web & Mobile Application that allows users to plan a car trip between two points in Romania.
    * [Gorilla Robotics (RO 149)](https://github.com/robertnitu02/gorilla_robotics) - BRD First Tech Challenge Robotics International Competition
    * [Google Developer Student Clubs - UVT](https://github.com/robertnitu02/GDSC-UVT) - Angular 14+ and Design Patterns workshop and projects for web applications
-   
+   * [Popasuri Românești](https://www.linkedin.com/company/popasuri-romanesti/about/) - Web & Mobile Application that allows users to plan a car trip between two points in Romania.
+   * AgroNOW - The digitization of agri-food markets in Romania, Bachelor Project [UPB](https://www.fiir.upb.ro/index.php/ro/) 2025
+
 ## 💯 Github Stats
 
 <p align="center">
